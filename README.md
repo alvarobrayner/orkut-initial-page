@@ -3,4 +3,4 @@ Linguagens utilizadas:
 - HTML5
 - CSS3
 
-.\img\imagem_final.png
+![Imagem final do projeto].\img\imagem_final.png
