@@ -1,0 +1,70 @@
+body
+{
+    background-color: #d4dded;
+    padding: 0;
+    margin: 0 auto;
+    width: 90%;
+    padding-top: 7%;
+    font-family: sans-serif;
+}
+
+.orkut-wrapper
+{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.orkut-welcome
+{
+    background: white;
+    margin: 10px;
+    text-align: center;
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.orkut_logo img
+{
+    width: 40%;
+}
+
+.pink-text
+{
+    color: #d70494;
+}
+
+.orkut-login
+{
+    background: #e8eefa;
+    border: 3.5px solid white;
+    margin: 10px;
+    text-align: center;
+}
+
+.orkut-logon
+{
+    background: #e8eefa;
+    border: 3.5px solid white;
+    margin: 10px;
+    text-align: center;
+}
+
+.link-blue
+{
+    color: #113a99;
+}
+
+.dont-use
+{
+    color: gray;
+    font-size: small;
+}
+
+.orkut-footer
+{
+    background: #bccde9;
+    margin: 10px;
+    justify-content: center;
+    display: flex;
+}
